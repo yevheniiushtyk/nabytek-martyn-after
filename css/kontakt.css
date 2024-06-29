@@ -1,0 +1,18 @@
+.home_banner_area {
+    background: url(..//img/banners/kontakt.webp) no-repeat center center / cover;
+}
+
+@media (max-width: 768px) {
+    .home_banner_area {
+        background: url(..//img/banners/kontakt-sm.webp) no-repeat center center / cover;
+    }
+}
+
+.contact_area {
+    padding-bottom: 120px;
+}
+
+.contact_info i {
+    padding-top: 10px;
+    font-size: 30px !important;
+}

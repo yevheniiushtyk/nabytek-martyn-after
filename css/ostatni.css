@@ -1,0 +1,9 @@
+.home_banner_area {
+    background: url(..//img/banners/ostatni.webp) no-repeat center center / cover;
+}
+
+@media (max-width: 1170px) {
+    .home_banner_area {
+        background: url(..//img/banners/ostatni-sm.webp) no-repeat center center / cover;
+    }
+}

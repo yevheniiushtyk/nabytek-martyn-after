@@ -1,0 +1,9 @@
+.home_banner_area {
+    background: url(..//img/banners/vestavene-skrine.webp) no-repeat center center / cover;
+}
+
+@media (max-width: 768px) {
+    .home_banner_area {
+        background: url(..//img/banners/vestavene-skrine-sm.webp) no-repeat center center / cover;
+    }
+}

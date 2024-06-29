@@ -1,0 +1,9 @@
+.home_banner_area {
+    background: url(..//img/banners/schodiste.webp) no-repeat center center / cover;
+}
+
+@media (max-width: 1000px) {
+    .home_banner_area {
+        background: url(..//img/banners/schodiste-sm.webp) no-repeat center center / cover;
+    }
+}
